@@ -10,9 +10,7 @@ ipyvuetify
 voila-vuetify	
 matplotlib
 numpy
-RandomForestRegressor
 train_test_split
-mean_absolute_error
 seaborn
 warnings
 math
