@@ -8,7 +8,7 @@ pytest
 voila
 ipyvuetify
 voila-vuetify	
-matplotlib.pyplot
+matplotlib
 numpy
 RandomForestRegressor
 train_test_split
