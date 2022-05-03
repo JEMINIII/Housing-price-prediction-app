@@ -11,8 +11,8 @@ voila-vuetify
 matplotlib
 numpy
 streamlit==0.79.0
-scikit_learn=0.24.1
-seaborn=0.11.0
+scikit_learn==0.24.1
+seaborn==0.11.0
 warnings
 math
 scipy.stats
