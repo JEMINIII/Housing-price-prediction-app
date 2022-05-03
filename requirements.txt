@@ -8,3 +8,4 @@ scipy==1.7.1
 seaborn==0.11.2
 jupyterlab
 voila
+voila-material
